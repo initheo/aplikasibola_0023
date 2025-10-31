@@ -1,4 +1,4 @@
-# Aplikasi Persib Bandung Official - 0023
+# Aplikasi Bola - 0023
 
 Aplikasi Flutter untuk manajemen data pemain dan informasi Persib Bandung. Dikembangkan sebagai bagian dari tugas mata kuliah Pemrograman Mobile.
 
