@@ -163,7 +163,11 @@ ios/                           # Konfigurasi iOS
 
 ## Screenshots/Demo Aplikasi
 
-https://github.com/initheo/aplikasibola_0023/blob/ee0780bacaedfe30134cdbab9221aa11ed3a3e7f/screen_record.mov
+
+
+Uploading screen_record.mov…
+
+
 
 ## Testing
 
