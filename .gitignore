@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except README and screen_record.mov
+!README.md
+!screen_record.mov
+
+# Don't ignore .gitignore itself
+!.gitignore
