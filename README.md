@@ -163,11 +163,7 @@ ios/                           # Konfigurasi iOS
 
 ## Screenshots/Demo Aplikasi
 
-
-
-Uploading screen_record.mov…
-
-
+https://github.com/user-attachments/assets/b6f61b19-a05c-459e-a504-dfc463214d18
 
 ## Testing
 
