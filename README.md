@@ -184,11 +184,6 @@ flutter test
 
 - Jalankan `flutter clean` kemudian `flutter pub get`
 
-### Logo tidak muncul
-
-- Pastikan file `persib_logo.png` ada di folder `assets/images/`
-- Jalankan `flutter pub get` setelah menambahkan asset
-
 ## Kontributor
 
 - **Muqoffin** - Developer
